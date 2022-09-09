@@ -1,3 +1,3 @@
-# Coursera_AI/ML Courses
+# Coursera AI/ML Courses
     * Stanford Machine Learning Course
     * AI Deep Learning Course
