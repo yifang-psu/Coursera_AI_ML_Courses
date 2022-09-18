@@ -14,3 +14,16 @@
 * Analytical thought leader - You can define the analytical agenda for projects, frame ambiguous business questions into analytical plans (e.g., assess data needs, source files, prepare data, create new features, evaluate quality, etc.), and execute.  Ability to make tradeoffs between delivering results in the short term while aiming at ambitious long term goals
 * Cognitive and Communications Skill - Highly articulate, built upon an underlying fundamental clarity of thought. General ability to root out fundamental issues, bring order from chaos, synthesize elegant insights, and drive to clear decisions.
 * Leadership - Primary focus of building something of significance. Willingness to roll up sleeves and do whatever it takes. Self-confidence, poise, and personal presence that inspires confidence in others. Charisma, gravitas, intellect, flexibility, and integrity that motivates others to trust, collaborate, and follow
+
+Function as an internal consultant to solve big data related projects for diverse Citi business sectors and bring innovative solutions to Citi business utilizing big data platform.
+
+A passionate Data Scientist with extensive experience in financial and academic big data projects; Creative mind in pattern recognition, predictive modeling and machine learning; Strong ability to utilize domain knowledge to solve real world problem.
+
+Skills: Financial Analytics, Health Analytics, and Marketing Analytics.
+• R, RevoR, Python, Linux, H2O
+• Datameer, Platfora, Tableau, SPSS, Paxata, Alpine, Microsoft Office
+• Hive, Impala, Pig, My SQL, Microsoft Access
+• Hadoop, Spark, pySpark, SparkR, SparkSQL
+• Data Mining, Statistical Modeling, Machine Learning Techiniques
+
+Personal skills: Communication, Presentation and Problem Solving
