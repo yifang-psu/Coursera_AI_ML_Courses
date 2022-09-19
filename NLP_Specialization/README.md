@@ -1,5 +1,5 @@
-Number | Tag | Description
-1.	 | CC	 |Coordinating conjunction
+Number | Tag | Description |
+1.	 | CC	 |Coordinating conjunction |
 2.	 |CD	 |Cardinal number
 3.	 |DT |	Determiner
 4.	 |EX	 |Existential there
