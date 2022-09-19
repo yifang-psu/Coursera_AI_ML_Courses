@@ -35,3 +35,8 @@ Number | Tag | Description |
 34. |	WP	 |Wh-pronoun
 35.	 |WP$	 |Possessive wh-pronoun
 36. |	WRB	 |Wh-adverb
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
