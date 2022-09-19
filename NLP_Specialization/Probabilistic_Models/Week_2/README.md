@@ -1,6 +1,6 @@
 ## Part of Speech Tagging and Hidden Markov Models
 
-* **Goal:** 
+* **Learning Objectives:** 
   * Markov chains
   * Hidden Markov models
   * Part-of-speech tagging
