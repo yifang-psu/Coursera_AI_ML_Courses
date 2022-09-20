@@ -1,6 +1,6 @@
-## Part of Speech Tagging and Hidden Markov Models
+### Week 2: Part of Speech Tagging and Hidden Markov Models
 
-* **Learning Objectives:** 
+#### Learning Objectives:
   * Markov chains
   * Hidden Markov models
   * Part-of-speech tagging
