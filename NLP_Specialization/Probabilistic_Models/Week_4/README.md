@@ -1,5 +1,5 @@
 ### Week 4: Word embeddings with neural networks
-
+### Learning Objectives
 * Gradient descent
 * One-hot vectors
 * Neural networks
