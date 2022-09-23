@@ -1,4 +1,6 @@
-## Natural Language Processing Specialization
+## Natural Language Processing Specialization (4 courses)
+### Offered By DeepLearning.AI
+
 #### Course 1: Natural Language Processing with Classification and Vector Spaces
 * [View Yi Fang's Certificate](https://coursera.org/share/a1f798a914ceb798a55e2a9093de0372)
 #### Course 2: Natural Language Processing with Probabilistic Models
