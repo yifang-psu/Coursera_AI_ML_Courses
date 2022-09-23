@@ -1,4 +1,4 @@
-## Natural Language Processing Specialization (4 courses)
+## Natural Language Processing (NLP) Specialization (4 courses)
 ### Offered By DeepLearning.AI
 
 #### Course 1: Natural Language Processing with Classification and Vector Spaces
