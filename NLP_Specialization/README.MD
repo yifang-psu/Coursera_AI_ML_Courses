@@ -4,6 +4,7 @@
 #### Course 1: Natural Language Processing with Classification and Vector Spaces
 * [View Yi Fang's Certificate of Course 1](https://coursera.org/share/a1f798a914ceb798a55e2a9093de0372)
 #### Course 2: Natural Language Processing with Probabilistic Models
+* [View Yi Fang's Certificate of Course 2](https://coursera.org/share/dd22fdad1cec772a46e22564b912901b)
 #### Course 3: Natural Language Processing with Sequance Models
 #### Course 4: Natural Language Processing with Attention Models 
 
