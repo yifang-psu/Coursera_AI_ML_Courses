@@ -1,3 +1,32 @@
+## Deep Learning Specialization (5 courses)
+### Offered By DeepLearning.AI
+
+#### Course 1: Neural Networks and Deep Learning
+* [View Yi Fang's Certificate of Course 1]()
+#### Course 2: Natural Language Processing with Probabilistic Models
+* [View Yi Fang's Certificate of Course 2]()
+#### Course 3: Natural Language Processing with Sequance Models
+* [View Yi Fang's Certificate of Course 3]()
+#### Course 4: Natural Language Processing with Attention Models 
+* [View Yi Fang's Certificate of Course 4]()
+#### Course 5: Natural Language Processing with Attention Models 
+* [View Yi Fang's Certificate of Course 5]()
+
+1. How to build NLP driven solutions from identifying business problems, to collecting training dataset, to analyzing data, to modeling, to validating and to delivering NLP models
+2. How to build everything from basic reports to advanced machine learning models and algos to drive improvements to our customer’s online and mobile app experiences.
+
+
+
+
+
+
+
+
+
+
+
+
+
 Qualifications
 What your background looks like
 
