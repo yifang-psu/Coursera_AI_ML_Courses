@@ -2,7 +2,7 @@
 ### Offered By DeepLearning.AI
 
 #### Course 1: Neural Networks and Deep Learning
-* [View Yi Fang's Certificate of Course 1]()
+* [View Yi Fang's Certificate of Course 1](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
 #### Course 2: Natural Language Processing with Probabilistic Models
 * [View Yi Fang's Certificate of Course 2]()
 #### Course 3: Natural Language Processing with Sequance Models
