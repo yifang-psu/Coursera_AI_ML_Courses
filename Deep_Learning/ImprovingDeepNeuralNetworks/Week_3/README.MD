@@ -14,6 +14,5 @@
   *  In this notebook, explore TensorFlow, a deep learning framework that allows you to build neural networks more easily, and use it to build a neural network and train it on a TensorFlow dataset. . 
 
 ### Key References:
-* [Introduction to gradients and automatic differentiation] (https://www.tensorflow.org/guide/autodiff) (TensorFlow Documentation)
+* [Introduction to gradients and automatic differentiation](https://www.tensorflow.org/guide/autodiff) (TensorFlow Documentation)
 * [tf.GradientTape](https://www.tensorflow.org/api_docs/python/tf/GradientTape) (TensorFlow Documentation)
-fdf
