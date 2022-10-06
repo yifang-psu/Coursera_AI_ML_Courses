@@ -1,11 +1,11 @@
 ## Deep Learning Specialization (5 courses)
 ### Offered By DeepLearning.AI
 
-#### Course 1: Neural Networks and Deep Learning
+#### Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/machine-learning-projects)
 * [View Yi Fang's Certificate of Course 1](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
 #### Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 * [View Yi Fang's Certificate of Course 2](https://coursera.org/share/29cb8758fa5da57d4c1c1237f9736e88)
-#### Course 3: Natural Language Processing with Sequance Models
+#### Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 * [View Yi Fang's Certificate of Course 3]()
 #### Course 4: Natural Language Processing with Attention Models 
 * [View Yi Fang's Certificate of Course 4]()
