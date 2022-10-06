@@ -1,15 +1,15 @@
 ## Deep Learning Specialization (5 courses)
 ### Offered By DeepLearning.AI
 
-#### Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/machine-learning-projects)
+#### Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning))
 * [View Yi Fang's Certificate of Course 1](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
-#### Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+#### Course 2: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 * [View Yi Fang's Certificate of Course 2](https://coursera.org/share/29cb8758fa5da57d4c1c1237f9736e88)
-#### Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+#### Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 * [View Yi Fang's Certificate of Course 3]()
-#### Course 4: Natural Language Processing with Attention Models 
+#### Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
 * [View Yi Fang's Certificate of Course 4]()
-#### Course 5: Natural Language Processing with Attention Models 
+#### Course 5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 * [View Yi Fang's Certificate of Course 5]()
 
 1. How to build NLP driven solutions from identifying business problems, to collecting training dataset, to analyzing data, to modeling, to validating and to delivering NLP models
