@@ -8,7 +8,7 @@
 #### Course 3: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 * [View Yi Fang's Certificate of Course 3](https://coursera.org/share/bd82c3c6bad9e1384ff989145c400931)
 #### Course 4: [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
-* [View Yi Fang's Certificate of Course 4]()
+* [View Yi Fang's Certificate of Course 4](https://coursera.org/share/214f22dab116a04320c354aec728bbe1)
 #### Course 5: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 * [View Yi Fang's Certificate of Course 5]()
 
