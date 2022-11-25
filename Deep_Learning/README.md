@@ -1,5 +1,6 @@
 ## Deep Learning Specialization (5 courses)
 ### The courses are offered by DeepLearning.AI
+* [View Yi Fang's Deep Learning Specilization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CBZR86EERCF3)
 
 #### Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
 * [View Yi Fang's Certificate of Course 1](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
