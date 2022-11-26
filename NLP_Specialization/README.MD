@@ -10,6 +10,3 @@
 * [View Yi Fang's Certificate of Course 3](https://coursera.org/share/052cd6a9d81db550e19efdd7dceadd3d)
 #### Course 4: Natural Language Processing with Attention Models 
 * [View Yi Fang's Certificate of Course 4](https://coursera.org/share/2a8c5092ef241ea872a7a56689af38f1)
-
-1. How to build NLP driven solutions from identifying business problems, to collecting training dataset, to analyzing data, to modeling, to validating and to delivering NLP models
-2. How to build everything from basic reports to advanced machine learning models and algos to drive improvements to our customer’s online and mobile app experiences.
