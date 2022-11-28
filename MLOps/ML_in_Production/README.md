@@ -5,5 +5,5 @@
 
 * Schedule of this course:
   * Week 1: [Overview of the ML Lifecycle and Deployment](https://github.com/yifang-psu/Coursera_AI_ML_Courses/tree/main/MLOps/ML_in_Production/Week_1)
-  * Week 2: [Selecting and Training a Model]
+  * Week 2: [Selecting and Training a Model](https://github.com/yifang-psu/Coursera_AI_ML_Courses/tree/main/MLOps/ML_in_Production/Week_2)
   * Week 3: [Data Definition and Baseline]
