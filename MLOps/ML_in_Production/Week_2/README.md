@@ -28,5 +28,5 @@
   * [Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt](http://arxiv.org/abs/1912.02292)
   
 * **Programming Assignment:**  
-  * [C1W2_Ungraded_Lab_Redirect] (https://colab.research.google.com/github/https-deeplearning-ai/MLEP-public/blob/main/course1/week2-ungraded-lab/C1W2_Ungraded_Lab_Birds_Cats_Dogs.ipynb)
-  * Alternatively, the [ungraded ipynb file is here] (https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/ML_in_Production/Week_2/C1W2_Ungraded_Lab_Birds_Cats_Dogs.ipynb)
+  * [C1W2_Ungraded_Lab_Redirect](https://colab.research.google.com/github/https-deeplearning-ai/MLEP-public/blob/main/course1/week2-ungraded-lab/C1W2_Ungraded_Lab_Birds_Cats_Dogs.ipynb)
+  * Alternatively, the [ungraded ipynb file is here](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/ML_in_Production/Week_2/C1W2_Ungraded_Lab_Birds_Cats_Dogs.ipynb)
