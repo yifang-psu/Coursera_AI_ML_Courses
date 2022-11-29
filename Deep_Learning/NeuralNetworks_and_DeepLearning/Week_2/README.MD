@@ -13,3 +13,8 @@
   * Implement vectorization across multiple training examples
   * Explain the concept of broadcasting
 
+* **Programming Assignements**:
+  * [Python Basic with Numpy](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/ImprovingDeepNeuralNetworks/Week_1/Initialization.ipynb):
+    * A brief introduction of Python.
+  * [Regularization](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/ImprovingDeepNeuralNetworks/Week_1/Regularization.ipynb):
+    * In this assignment, build a logistic regression classifier to recognize cats (meow!). This assignment will step you through how to do this with a Neural Network mindset, and so will also hone your intuitions about deep learning. By the end of this notebook, you'll be able to classify your own photo as cat/not cat (meow?).  
