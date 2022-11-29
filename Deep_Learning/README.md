@@ -2,7 +2,7 @@
 ### The courses are offered by DeepLearning.AI
 * [**View Yi Fang's Deep Learning Specilization Certificate**](https://coursera.org/share/d43d99fea12e6dd6ab85fc78aef18e60)
 
-#### Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+#### Course 1: [Neural Networks and Deep Learning](https://github.com/yifang-psu/Coursera_AI_ML_Courses/tree/main/Deep_Learning/NeuralNetworks_and_DeepLearning)
 * [View Yi Fang's Certificate of Course 1](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
 #### Course 2: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
 * [View Yi Fang's Certificate of Course 2](https://coursera.org/share/29cb8758fa5da57d4c1c1237f9736e88)
