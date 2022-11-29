@@ -30,3 +30,8 @@
 * **Programming Assignment:**  
   * [C1W2_Ungraded_Lab_Redirect](https://colab.research.google.com/github/https-deeplearning-ai/MLEP-public/blob/main/course1/week2-ungraded-lab/C1W2_Ungraded_Lab_Birds_Cats_Dogs.ipynb)
   * Alternatively, the [ungraded ipynb file is here](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/ML_in_Production/Week_2/C1W2_Ungraded_Lab_Birds_Cats_Dogs.ipynb)
+  * In this ungraded lab you will get hands on experience working with data at various levels. In particular you will:
+    - Manually move images around the filesystem so they are stored in a structure suitable for model training.
+    - Clean up the dataset as it presents some corrupted images and other issues.
+    - See how class imbalance negatively affects model evaluation.
+    - Solve overfitting problems by using Data Augmentation techniques.
