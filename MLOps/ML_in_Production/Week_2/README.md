@@ -22,3 +22,7 @@
   * [Establishing a baseline](https://blog.ml.cmu.edu/2020/08/31/3-baselines/)
   * [Error analysis](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/responsible-machine-learning-with-error-analysis/ba-p/2141774)
   * [Experiment tracking](https://neptune.ai/blog/ml-experiment-tracking)
+
+* **Research Paper Reading List:**
+  * [Brundage, M., Avin, S., Wang, J., Belfield, H., Krueger, G., Hadfield, G., … Anderljung, M. (n.d.). Toward trustworthy AI development: Mechanisms for supporting verifiable claim](http://arxiv.org/abs/2004.07213v2)
+  * [Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt](http://arxiv.org/abs/1912.02292)
