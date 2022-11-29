@@ -16,5 +16,5 @@
 * **Programming Assignements**:
   * [Python Basic with Numpy](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/NeuralNetworks_and_DeepLearning/Week_2/Python_Basics_with_Numpy.ipynb):
     * A brief introduction of Python.
-  * [Regularization](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/ImprovingDeepNeuralNetworks/Week_1/Regularization.ipynb):
+  * [Logistic Regression with a Neural Network mindset](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/NeuralNetworks_and_DeepLearning/Week_2/Logistic_Regression_with_a_Neural_Network_mindset.ipynb):
     * In this assignment, build a logistic regression classifier to recognize cats (meow!). This assignment will step you through how to do this with a Neural Network mindset, and so will also hone your intuitions about deep learning. By the end of this notebook, you'll be able to classify your own photo as cat/not cat (meow?).  
