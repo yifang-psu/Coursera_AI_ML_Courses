@@ -9,3 +9,5 @@
   * Differentiate between shadow, canary, and blue-green deployment scenarios in the context of varying degrees of automation.
   * Compare and contrast the ML modeling iterative cycle with the cycle for deployment of ML products.
   * List the typical metrics you might track to monitor concept drift.
+
+* **Reading List:**
