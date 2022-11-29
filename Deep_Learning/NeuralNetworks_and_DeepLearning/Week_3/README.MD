@@ -13,7 +13,7 @@
   * Compute the cross entropy loss
 
 * **Programming Assignements**:
-  * [Planar Data Classification with One Hidden Layer](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/NeuralNetworks_and_DeepLearning/Week_2/Logistic_Regression_with_a_Neural_Network_mindset.ipynb): By the end of this assignment, you'll be able to:
+  * [Planar Data Classification with One Hidden Layer](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/NeuralNetworks_and_DeepLearning/Week_3/Planar_data_classification_with_one_hidden_layer.ipynb) By the end of this assignment, you'll be able to:
     * Implement a 2-class classification neural network with a single hidden layer
     * Use units with a non-linear activation function, such as tanh
     * Compute the cross entropy loss
