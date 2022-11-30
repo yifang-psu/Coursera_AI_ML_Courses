@@ -14,7 +14,7 @@
   * Explain the difference between a variable and a constant
 
 * **Programming Assignements**:
-  * [TensorFlow Introduction]()
+  * [TensorFlow Introduction](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/ImprovingDeepNeuralNetworks/Week_3/Tensorflow_introduction.ipynb)
     * In this notebook, explore TensorFlow, a deep learning framework that allows you to build neural networks more easily, and use it to build a neural network and train it on a TensorFlow dataset.
 
 * Key References:
