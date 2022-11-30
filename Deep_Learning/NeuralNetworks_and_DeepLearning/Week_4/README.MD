@@ -13,4 +13,4 @@
 
 * **Programming Assignements**:
   * [Building your Deep Neural Network: Step by Step](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/NeuralNetworks_and_DeepLearning/Week_4/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-  * [Deep Neural Network - Application](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/NeuralNetworks_and_DeepLearning/Week_3/Planar_data_classification_with_one_hidden_layer.ipynb)
+  * [Deep Neural Network - Application](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/Deep_Learning/NeuralNetworks_and_DeepLearning/Week_4/Deep%20Neural%20Network%20-%20Application.ipynb)
