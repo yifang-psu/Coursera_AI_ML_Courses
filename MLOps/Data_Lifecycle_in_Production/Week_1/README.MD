@@ -13,6 +13,7 @@
 
 * **Lab Exercise:**
   * TFDV Lab
+    * In this notebook, you will get to practice using TensorFlow Data Validation (TFDV), an open-source Python package from the TensorFlow Extended (TFX) ecosystem.
 
 * **Programming Assignments:**
   * Data Validation
