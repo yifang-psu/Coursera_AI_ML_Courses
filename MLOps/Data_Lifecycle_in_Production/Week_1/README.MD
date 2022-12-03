@@ -28,4 +28,4 @@
     * In this notebook, you will get to practice using TensorFlow Data Validation (TFDV), an open-source Python package from the TensorFlow Extended (TFX) ecosystem.
 
 * **Programming Assignments:**
-  * [Data Validation]()
+  * [Data Validation](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/Data_Lifecycle_in_Production/Week_1/Assignment/C2W1_Assignment.ipynb)
