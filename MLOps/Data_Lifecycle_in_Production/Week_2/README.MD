@@ -18,7 +18,7 @@
   * [Encoding features](https://developers.google.com/machine-learning/crash-course/feature-crosses/encoding-nonlinearity)
 
 * **TFX:**
-  * [https://www.tensorflow.org/tfx/guide#tfx_pipelines](https://www.tensorflow.org/tfx/guide#tfx_pipelines)
+  * https://www.tensorflow.org/tfx/guide#tfx_pipelines
   * https://ai.googleblog.com/2017/02/preprocessing-for-machine-learning-with.html
 
 * **Dataset:**
