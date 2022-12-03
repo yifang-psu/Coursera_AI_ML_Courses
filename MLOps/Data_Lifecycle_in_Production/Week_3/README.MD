@@ -1,4 +1,4 @@
-### Week 2: Data Journey and Data Storage
+### Week 3: Data Journey and Data Storage
 
 * **What is this week's course about?**
   * Understand the data journey over a production system’s lifecycle and leverage ML metadata and enterprise schemas to address quickly evolving data.
