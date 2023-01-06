@@ -25,4 +25,5 @@
   * Label Propagation: [Iscen, A., Tolias, G., Avrithis, Y., & Chum, O. (2019). Label propagation for deep semi-supervised learning.](https://arxiv.org/pdf/1904.04717.pdf) 
 
 * **Lab Exercise:**
+  * [Feature Engineering with Weather Data](https://github.com/yifang-psu/Coursera_AI_ML_Courses/tree/main/MLOps/Data_Lifecycle_in_Production/Week_4/FeatureEngineering_with_WeatherData)
   * [Feature Engineering with Images]()
