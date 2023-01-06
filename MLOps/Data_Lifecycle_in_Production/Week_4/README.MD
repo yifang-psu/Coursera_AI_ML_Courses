@@ -27,4 +27,4 @@
 * **Lab Exercise:**
   * [Feature Engineering with Weather Data](https://github.com/yifang-psu/Coursera_AI_ML_Courses/tree/main/MLOps/Data_Lifecycle_in_Production/Week_4/FeatureEngineering_with_WeatherData)
   * [Feature Engineering with Accelerometer Data](https://github.com/yifang-psu/Coursera_AI_ML_Courses/tree/main/MLOps/Data_Lifecycle_in_Production/Week_4/FeatureEngineering_with_AccelerometerData)
-  * [Feature Engineering with Images]()
+  * [Feature Engineering with Images](https://github.com/yifang-psu/Coursera_AI_ML_Courses/tree/main/MLOps/Data_Lifecycle_in_Production/Week_4/FeatureEngineering_with_Images)
