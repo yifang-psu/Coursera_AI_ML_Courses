@@ -1,4 +1,4 @@
-### Week 1: Model Resource Management Techniques
+### Week 2: Model Resource Management Techniques
 
 * **What is this week's course about?**
   * Learn how to optimize and manage the compute, storage, and I/O resources your model needs in production environments during its entire lifecycle.
@@ -20,8 +20,4 @@
 * **Lab Exercise:**
   * [Manual Feature Engineering]()
   * [Hyperparameter Tuning and Model Traning with TFX]()
- 
-* **Programming Assignments:**
-  * [A Tour of Qwiklabs and Google Cloud]()
-  * [Algorithmic Dimensionality Reduction]()
   * [Quantization and Pruning]()
