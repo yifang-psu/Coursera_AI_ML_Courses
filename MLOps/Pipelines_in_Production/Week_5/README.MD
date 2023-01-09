@@ -19,7 +19,7 @@
   * [Monotonic Calibrated Interpolated Look-Up Tables](https://jmlr.org/papers/volume17/15-243/15-243.pdf)
   * [Permutation feature importance](http://arxiv.org/abs/1801.01489)
   * [A Unified Approach to Interpreting Model Predictions](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf)
-  * [Explainable AI for Trees: From Local Explanations to Global Understanding](Explainable AI for Trees: From Local Explanations to Global Understanding)
+  * [Explainable AI for Trees: From Local Explanations to Global Understanding](https://arxiv.org/abs/1905.04610)
   * [TCAV](https://arxiv.org/pdf/1711.11279.pdf)
   * [LIME](https://github.com/marcotcr/lime)
   * [AI Explanations](https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf)
