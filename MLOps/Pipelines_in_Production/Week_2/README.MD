@@ -19,5 +19,5 @@
   
 * **Lab Exercise:**
   * [Manual Feature Engineering]()
-  * [Hyperparameter Tuning and Model Traning with TFX]()
+  * [Algorithmic Dimensionality Reduction]()
   * [Quantization and Pruning]()
