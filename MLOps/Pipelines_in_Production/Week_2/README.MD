@@ -18,6 +18,6 @@
   * [PCA extensions](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
   
 * **Lab Exercise:**
-  * [Manual Feature Engineering]()
+  * [Manual Feature Engineering](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/Pipelines_in_Production/Week_2/Lab/C3_W2_Lab_1_Manual_Dimensionality.ipynb)
   * [Algorithmic Dimensionality Reduction]()
   * [Quantization and Pruning]()
