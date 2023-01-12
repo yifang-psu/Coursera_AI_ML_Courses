@@ -19,5 +19,5 @@
   
 * **Lab Exercise:**
   * [Manual Feature Engineering](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/Pipelines_in_Production/Week_2/Lab/C3_W2_Lab_1_Manual_Dimensionality.ipynb)
-  * [Algorithmic Dimensionality Reduction]()
+  * [Algorithmic Dimensionality Reduction](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/Pipelines_in_Production/Week_2/Lab/C3_W2_Lab_2_Algorithmic_Dimensionality.ipynb)
   * [Quantization and Pruning]()
