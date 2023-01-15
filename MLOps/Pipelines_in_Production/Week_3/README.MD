@@ -19,5 +19,5 @@
   * [Q&A case study](https://arxiv.org/pdf/1910.08381.pdf)
   
 * **Lab Exercise:**
-  * [Distributed Strategies with TF and Keras]()
+  * [Distributed Strategies with TF and Keras](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/Pipelines_in_Production/Week_3/Lab/C3_W3_Lab_1_Distributed_Training.ipynb)
   * [Knowledge Distillation]()
