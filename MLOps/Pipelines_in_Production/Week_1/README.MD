@@ -24,7 +24,7 @@
 
 * **Lab Exercise:**
   * [Intro to Keras Tuner]()
-  * [Hyperparameter Tuning and Model Traning with TFX]()
+  * [Hyperparameter Tuning and Model Traning with TFX](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/Pipelines_in_Production/Week_1/Lab/C3_W1_Lab_2_TFX_Tuner_and_Trainer.ipynb)
  
 * **Programming Assignments:**
   * [A Tour of Qwiklabs and Google Cloud]()
