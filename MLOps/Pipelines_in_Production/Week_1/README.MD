@@ -23,7 +23,7 @@
   * [Google Cloud AutoML](https://cloud.google.com/automl)
 
 * **Lab Exercise:**
-  * [Intro to Keras Tuner]()
+  * [Intro to Keras Tuner](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/Pipelines_in_Production/Week_1/Lab/C3_W1_Lab_1_Keras_Tuner.ipynb)
   * [Hyperparameter Tuning and Model Traning with TFX](https://github.com/yifang-psu/Coursera_AI_ML_Courses/blob/main/MLOps/Pipelines_in_Production/Week_1/Lab/C3_W1_Lab_2_TFX_Tuner_and_Trainer.ipynb)
  
 * **Programming Assignments:**
